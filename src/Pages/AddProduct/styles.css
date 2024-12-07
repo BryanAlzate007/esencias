@@ -1,0 +1,20 @@
+.button-save{
+    background-color: #f3b90d; /* Azul claro */
+    color: #0b0b0b; /* Blanco */
+    border-radius: 0.5rem; /* Bordes redondeados */
+    padding: 0.5rem; /* Espaciado interno */
+}
+
+.button-save:hover {
+    background-color: #e2ab08; /* Azul más oscuro */
+  }
+  
+  
+  .button-save:active {
+    background-color: #1f618d; /* Azul aún más oscuro */
+  }
+  
+.button-save:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.4); /* Anillo azul claro */
+  }
