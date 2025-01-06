@@ -13,7 +13,7 @@ const Card = () => {
     }
 
     const arrayprueba = {
-        'tipo': 'cerbeza',
+        'tipo': 'Cerveza',
         'producto': 'Poker',
         'precio': '67000',
         'antes': '12235'
